@@ -9,3 +9,9 @@ then modify
 mydocument/battlefield1/twinkle/bundle.js
 
 there is an example in repo too
+
+
+
+you can use this repo like https://cdn.jsdelivr.net/gh/bfban/DiyBF1img/reimu.dds
+
+remeber to delete all mydocument/battlefield1/twinkle/temp
